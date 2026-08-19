@@ -1,0 +1,10 @@
+torch
+torchvision
+scikit-image
+pandas
+matplotlib
+numpy
+Pillow
+requests
+jupyter
+nbformat
